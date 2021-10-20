@@ -3,7 +3,7 @@
 
   
 ## 🚀 About Me
-I'am a passionate full-stack web developer from Buenos Aires, Argentina.
+I'am a full-stack web developer from Buenos Aires, Argentina.
 I have experience developing projects from backend to frontend with the PERN Stack
 
   
