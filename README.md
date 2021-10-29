@@ -20,7 +20,7 @@ I have experience developing projects from backend to frontend with the PERN Sta
 ## 🛠 Skills
 Javascript, HTML, CSS, Linux, Git/GitHub workflow, Agile methodologies (SCRUM), English: C2 Proficient
   
-## 🔗 Where to found me
+## 🔗 Where to find me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damian-spescha-8a9251217/)
 
